@@ -1,0 +1,1 @@
+implementation 'javax.media:jai-core:1.1.3'
